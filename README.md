@@ -1,1 +1,1 @@
-# Portfolio
+This repository contains a personal portfolio webpage created as the first coding challenge to establish a professional identity as a developer. The site was built locally using HTML and CSS, then published and hosted on GitHub Pages to provide a live online presence. This project introduces foundational development workflows including creating, editing, styling, version control with Git, and publishing through GitHub. It serves as a starting point for showcasing skills, projects, and experience throughout the course and beyond.
